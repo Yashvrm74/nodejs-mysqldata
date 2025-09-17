@@ -6,7 +6,7 @@ A simple nodejs app connected with mySQL database.
 
 1. Clone the repo
 ```bash
-git clone https://github.com/verma-kunal/nodejs-mysql.git
+git clone https://github.com/Yashvrm74/nodejs-mysqldata.git
 cd nodejs-mysql
 ```
 2. Create a `.env` file in root directory and add the environment variables:
